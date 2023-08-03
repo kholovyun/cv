@@ -1,0 +1,11 @@
+.link {
+    background-color: rgba(0, 0, 0, 0.302);
+    color: white;
+    padding: 2em;
+    border-radius: 1em;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
